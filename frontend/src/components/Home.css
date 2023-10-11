@@ -1,0 +1,212 @@
+.background-image {
+    position: absolute;
+    top: 94px;
+    left: 0;
+    width: 1440px;
+    height: 473px;
+    object-fit: cover;
+  }
+  
+  .products-text {
+    position: absolute;
+    top: 21px;
+    left: 852px;
+    font-size: 3.25rem;
+    font-family: 'playball', sans-serif;
+    color: black;
+    display: flex;
+    align-items: center;
+    width: 171px;
+    height: 53px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .about-text {
+    position: absolute;
+    top: 21px;
+    left: 1108px;
+    font-size: 3.25rem;
+    font-family: 'playball', sans-serif;
+    color: black;
+    display: flex;
+    align-items: center;
+    width: 127px;
+    height: 53px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .vector-image {
+    position: absolute;
+    height: 3.32%;
+    width: 2.99%;
+    top: 2.67%;
+    right: 5.35%;
+    bottom: 94.01%;
+    left: 91.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  
+  .description {
+    position: absolute;
+    top: 132px;
+    left: 5px;
+    font-size: 5rem;
+    color: black;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 580px;
+    height: 243px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .frame-button {
+    position: absolute;
+    top: 425px;
+    left: 22px;
+    cursor: pointer;
+  }
+  
+  .featured-events-text {
+    position: absolute;
+    top: 585px;
+    left: 0;
+    font-size: 3.25rem;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .featured-event-image1 {
+    position: absolute;
+    top: 673px;
+    left: 389px;
+    width: 324px;
+    height: 237px;
+    object-fit: cover;
+  }
+  
+  .featured-event-image2 {
+    position: absolute;
+    top: 673px;
+    left: 766px;
+    width: 309px;
+    height: 237px;
+    object-fit: cover;
+  }
+  
+  .featured-event-image3 {
+    position: absolute;
+    top: 673px;
+    left: 1108px;
+    width: 311px;
+    height: 237px;
+    object-fit: cover;
+  }
+  
+  .featured-event-image4 {
+    position: absolute;
+    top: 651px;
+    left: 4px;
+    width: 332px;
+    height: 257px;
+    object-fit: cover;
+  }
+  
+  .ticket-box1,
+  .ticket-box2,
+  .ticket-box3,
+  .ticket-box4,
+  .event-category-box {
+    position: absolute;
+    top: 878px;
+    width: 132px;
+    height: 30px;
+    background-color: rosybrown;
+  }
+  
+  .ticket-box1 {
+    left: 99px;
+  }
+  
+  .ticket-box2 {
+    left: 862px;
+  }
+  
+  .ticket-box3 {
+    left: 1231px;
+  }
+  
+  .ticket-box4 {
+    left: 482px;
+  }
+  
+  .buy-ticket-text1,
+  .buy-ticket-text2,
+  .buy-ticket-text3,
+  .buy-ticket-text4,
+  .more-events-text,
+  .logo-text {
+    position: absolute;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .buy-ticket-text1,
+  .buy-ticket-text2,
+  .buy-ticket-text3,
+  .buy-ticket-text4 {
+    top: 878px;
+    height: 30px;
+  }
+  
+  .buy-ticket-text1 {
+    left: 112px;
+    cursor: pointer;
+  }
+  
+  .buy-ticket-text2 {
+    left: 875px;
+  }
+  
+  .buy-ticket-text3 {
+    left: 1244px;
+  }
+  
+  .buy-ticket-text4 {
+    left: 495px;
+  }
+  
+  .more-events-text {
+    top: 956px;
+    left: 1191px;
+    cursor: pointer;
+  }
+  
+  .logo-text {
+    top: calc(50% - 507px);
+    left: 5px;
+    font-size: 6rem;
+    color: cornflowerblue;
+  }
+  
+  .logo-text span {
+    display: flex;
+  }
+  
+  .logo-text span b {
+    font-size: 4rem;
+    font-family: 'karma', sans-serif;
+  }
+  
+  .logo-text span span {
+    font-size: 4rem;
+    font-family: 'nunito', sans-serif;
+  }
